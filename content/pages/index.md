@@ -42,6 +42,15 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - type: Link
+        label: Facebook
+        altText: Facebook
+        url: '/https://www.facebook.com/share/15ucCiSoQT/'
+        showIcon: true
+        icon: facebook
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/SPRITE ROME VERSION.png
       altText: >-
