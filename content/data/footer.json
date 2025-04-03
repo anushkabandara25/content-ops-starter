@@ -82,6 +82,17 @@
     ],
     "legalLinks": [
         {
+            "type": "Link",
+            "label": "Facebook",
+            "altText": "Facebook",
+            "url": "/https://www.facebook.com/share/15ucCiSoQT/",
+            "showIcon": true,
+            "icon": "facebook",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Terms",
             "url": "/",
             "icon": "arrowRight",
