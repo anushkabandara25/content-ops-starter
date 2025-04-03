@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: Billboard Design
 slug: case-study-1
 date: '2025-01-04'
 excerpt: >-
