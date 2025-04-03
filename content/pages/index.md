@@ -612,7 +612,7 @@ sections:
           site.
         image:
           url: /images/3 FOLD FLYER 2.png
-          altText: Placeholder image
+          altText: Flyer Design
           styles:
             self:
               borderRadius: x-large
