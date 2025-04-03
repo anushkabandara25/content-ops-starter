@@ -582,7 +582,7 @@ sections:
         type: FeaturedItem
       - title: Handbill Designs
         tagline: Printing Designs
-        subtitle: This is the item subtitle
+        subtitle: High quality handbill designs
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
