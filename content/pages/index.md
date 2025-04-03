@@ -561,8 +561,7 @@ sections:
       - title: Billboard Design
         tagline: Printing Designs
         subtitle: High quality Billboard/Banner Designs
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           url: /images/Free_Billboard 1.png
           altText: Billboard Design
