@@ -588,7 +588,7 @@ sections:
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
           url: /images/Mock-up_Leaflet_A5.png
-          altText: Placeholder image
+          altText: Handbill Design
           styles:
             self:
               borderRadius: x-large
