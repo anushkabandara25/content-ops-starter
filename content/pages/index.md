@@ -151,7 +151,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: /images/rocket_launch_24dp_000000_FILL0_wght400_GRAD0_opsz24.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
