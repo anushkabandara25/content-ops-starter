@@ -181,7 +181,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Projects done by our team
     images: []
     motion: move-to-left
     colors: bg-light-fg-dark
