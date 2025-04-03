@@ -583,8 +583,7 @@ sections:
       - title: Handbill Designs
         tagline: Printing Designs
         subtitle: High quality handbill designs
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: ''
         image:
           url: /images/Mock-up_Leaflet_A5.png
           altText: Handbill Design
