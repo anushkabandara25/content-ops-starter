@@ -42,6 +42,15 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - type: Link
+        label: Facebook
+        altText: Facebook
+        url: '/https://www.facebook.com/share/15ucCiSoQT/'
+        showIcon: true
+        icon: facebook
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/SPRITE ROME VERSION.png
       altText: >-
@@ -72,15 +81,19 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Friendly Service
+        subtitle: ''
+        text: >+
+
+          "At Primo Grafix, we believe great design comes with great service. We
+          prioritize clear communication, personalized attention, and a
+          hassle-free experience to ensure every project meets your vision. Our
+          friendly approach makes collaboration easy, ensuring you feel valued
+          every step of the way."
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -99,18 +112,21 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/diversity_1_24dp_000000_FILL0_wght400_GRAD0_opsz24.png
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 24 Hour Service
+        subtitle: ''
+        text: >+
+
+          "Primo Grafix is here for you 24/7, ensuring your design needs are met
+          anytime, anywhere. Whether it's a last-minute project or a quick
+          revision, our round-the-clock service guarantees fast, reliable, and
+          high-quality results whenever you need them."
+
         image:
-          url: /images/icon2.svg
+          url: /images/timer_24dp_000000_FILL0_wght400_GRAD0_opsz24.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -128,14 +144,17 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Fast Delivery
+        subtitle: ''
+        text: >+
+
+          "At Primo Grafix, we value your time! Our fast delivery service
+          ensures high-quality designs are completed efficiently without
+          compromising on creativity. Whether it's a tight deadline or a quick
+          revision, we deliver stunning results—right on time!"
+
         image:
-          url: /images/icon3.svg
+          url: /images/rocket_launch_24dp_000000_FILL0_wght400_GRAD0_opsz24.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -162,7 +181,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
@@ -227,34 +246,17 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
+    subtitle: ''
+    text: >+
+
+      "At Primo Grafix, we create designs that do more than just look good—they
+      help your business grow. From eye-catching branding to professional
+      marketing materials, our creative solutions enhance your brand identity,
+      attract customers, and set you apart from the competition. Let us help you
+      make a lasting impression and take your business to the next level!"
+
     badge:
-      label: Key Benefits
+      label: ''
       color: text-primary
       styles:
         self:
@@ -370,12 +372,8 @@ sections:
       text: Generic Section With A Form
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: ''
+    text: ''
     media:
       fields:
         - name: name
