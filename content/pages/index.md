@@ -146,10 +146,13 @@ sections:
         type: FeaturedItem
       - title: Fast Delivery
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          "At Primo Grafix, we value your time! Our fast delivery service
+          ensures high-quality designs are completed efficiently without
+          compromising on creativity. Whether it's a tight deadline or a quick
+          revision, we deliver stunning results—right on time!"
+
         image:
           url: /images/rocket_launch_24dp_000000_FILL0_wght400_GRAD0_opsz24.png
           altText: Featured icon three
