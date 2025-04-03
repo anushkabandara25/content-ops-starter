@@ -565,7 +565,7 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           url: /images/Free_Billboard 1.png
-          altText: Placeholder Image
+          altText: Billboard Design
           styles:
             self:
               borderRadius: x-large
