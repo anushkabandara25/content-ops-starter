@@ -604,7 +604,7 @@ sections:
         type: FeaturedItem
       - title: Flyer Designs
         tagline: Printing Designs
-        subtitle: This is the item subtitle
+        subtitle: High quality flyer designs
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
