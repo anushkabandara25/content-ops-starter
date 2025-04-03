@@ -560,7 +560,7 @@ sections:
     items:
       - title: Billboard Design
         tagline: Printing Designs
-        subtitle: This is the item subtitle
+        subtitle: High quality Billboard/Banner Designs
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
