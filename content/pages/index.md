@@ -118,10 +118,13 @@ sections:
               borderRadius: x-large
       - title: 24 Hour Service
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          "Primo Grafix is here for you 24/7, ensuring your design needs are met
+          anytime, anywhere. Whether it's a last-minute project or a quick
+          revision, our round-the-clock service guarantees fast, reliable, and
+          high-quality results whenever you need them."
+
         image:
           url: /images/timer_24dp_000000_FILL0_wght400_GRAD0_opsz24.png
           altText: Featured icon two
