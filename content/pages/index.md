@@ -8,10 +8,21 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      **"Primo Grafix is a creative design studio specializing in high-quality
+      graphic design solutions for businesses and individuals. From corporate
+      branding to eye-catching social media visuals, we bring ideas to life with
+      precision and innovation. Whether you need a professional cover page,
+      business proposal design, or a stunning portfolio, Primo Grafix ensures
+      that your brand stands out with exceptional visuals. Let’s create
+      something remarkable together!"**
+
+
+
+
+
+
+
     actions:
       - label: Get started
         altText: ''
