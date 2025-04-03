@@ -247,11 +247,14 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      "At Primo Grafix, we create designs that do more than just look good—they
+      help your business grow. From eye-catching branding to professional
+      marketing materials, our creative solutions enhance your brand identity,
+      attract customers, and set you apart from the competition. Let us help you
+      make a lasting impression and take your business to the next level!"
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
