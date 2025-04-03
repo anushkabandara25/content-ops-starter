@@ -44,7 +44,9 @@ sections:
         type: Link
     media:
       url: /images/SPRITE ROME VERSION.png
-      altText: Unblock your team boost your time to production preview
+      altText: >-
+        Boost your brand with epic designs as refreshing as Sprite! Perfect for
+        business promotions, product launches, and standout social media posts.
       elementId: ''
       type: ImageBlock
     badge:
