@@ -108,7 +108,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/diversity_1_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.png
+          url: /images/diversity_1_24dp_000000_FILL0_wght400_GRAD0_opsz24.png
           styles:
             self:
               borderRadius: x-large
