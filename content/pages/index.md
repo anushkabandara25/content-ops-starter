@@ -564,7 +564,7 @@ sections:
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Free_Billboard 1.png
           altText: Placeholder Image
           styles:
             self:
