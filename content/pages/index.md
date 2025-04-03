@@ -605,9 +605,7 @@ sections:
       - title: Flyer Designs
         tagline: Printing Designs
         subtitle: High quality flyer designs
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: ''
         image:
           url: /images/3 FOLD FLYER 2.png
           altText: Flyer Design
