@@ -602,7 +602,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
+      - title: Flyer Designs
         tagline: Printing Designs
         subtitle: This is the item subtitle
         text: >
