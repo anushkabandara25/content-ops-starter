@@ -559,7 +559,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Billboard Design
-        tagline: This is the tagline
+        tagline: Printing Designs
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
