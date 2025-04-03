@@ -581,7 +581,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Handbill Designs
-        tagline: This is the tagline
+        tagline: Printing Designs
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
