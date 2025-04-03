@@ -123,7 +123,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon2.svg
+          url: /images/timer_24dp_000000_FILL0_wght400_GRAD0_opsz24.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
